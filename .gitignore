@@ -1,0 +1,8 @@
+release/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+create_repo.py
+create_repo.json
