@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "years": [
+    {
+      "year": -123000,
+      "file": "-123000.json",
+      "feature_count": 0
+    },
+    {
+      "year": -10000,
+      "file": "-10000.json",
+      "feature_count": 0
+    },
+    {
+      "year": -8000,
+      "file": "-8000.json",
+      "feature_count": 0
+    },
+    {
+      "year": -5000,
+      "file": "-5000.json",
+      "feature_count": 1
+    },
+    {
+      "year": -4000,
+      "file": "-4000.json",
+      "feature_count": 3
+    },
+    {
+      "year": -3000,
+      "file": "-3000.json",
+      "feature_count": 3
+    },
+    {
+      "year": -2000,
+      "file": "-2000.json",
+      "feature_count": 4
+    },
+    {
+      "year": -1500,
+      "file": "-1500.json",
+      "feature_count": 9
+    },
+    {
+      "year": -1000,
+      "file": "-1000.json",
+      "feature_count": 9
+    },
+    {
+      "year": -700,
+      "file": "-700.json",
+      "feature_count": 9
+    },
+    {
+      "year": -500,
+      "file": "-500.json",
+      "feature_count": 10
+    },
+    {
+      "year": -400,
+      "file": "-400.json",
+      "feature_count": 13
+    },
+    {
+      "year": -323,
+      "file": "-323.json",
+      "feature_count": 14
+    },
+    {
+      "year": -300,
+      "file": "-300.json",
+      "feature_count": 20
+    },
+    {
+      "year": -200,
+      "file": "-200.json",
+      "feature_count": 18
+    },
+    {
+      "year": -100,
+      "file": "-100.json",
+      "feature_count": 18
+    },
+    {
+      "year": -1,
+      "file": "-1.json",
+      "feature_count": 23
+    },
+    {
+      "year": 100,
+      "file": "100.json",
+      "feature_count": 24
+    },
+    {
+      "year": 200,
+      "file": "200.json",
+      "feature_count": 18
+    },
+    {
+      "year": 300,
+      "file": "300.json",
+      "feature_count": 18
+    },
+    {
+      "year": 400,
+      "file": "400.json",
+      "feature_count": 20
+    },
+    {
+      "year": 500,
+      "file": "500.json",
+      "feature_count": 18
+    },
+    {
+      "year": 600,
+      "file": "600.json",
+      "feature_count": 22
+    },
+    {
+      "year": 700,
+      "file": "700.json",
+      "feature_count": 31
+    },
+    {
+      "year": 800,
+      "file": "800.json",
+      "feature_count": 23
+    },
+    {
+      "year": 900,
+      "file": "900.json",
+      "feature_count": 30
+    },
+    {
+      "year": 1000,
+      "file": "1000.json",
+      "feature_count": 50
+    },
+    {
+      "year": 1100,
+      "file": "1100.json",
+      "feature_count": 55
+    },
+    {
+      "year": 1200,
+      "file": "1200.json",
+      "feature_count": 51
+    },
+    {
+      "year": 1279,
+      "file": "1279.json",
+      "feature_count": 42
+    },
+    {
+      "year": 1300,
+      "file": "1300.json",
+      "feature_count": 42
+    },
+    {
+      "year": 1400,
+      "file": "1400.json",
+      "feature_count": 42
+    },
+    {
+      "year": 1492,
+      "file": "1492.json",
+      "feature_count": 43
+    },
+    {
+      "year": 1500,
+      "file": "1500.json",
+      "feature_count": 44
+    },
+    {
+      "year": 1530,
+      "file": "1530.json",
+      "feature_count": 42
+    },
+    {
+      "year": 1600,
+      "file": "1600.json",
+      "feature_count": 51
+    },
+    {
+      "year": 1650,
+      "file": "1650.json",
+      "feature_count": 39
+    },
+    {
+      "year": 1700,
+      "file": "1700.json",
+      "feature_count": 41
+    },
+    {
+      "year": 1715,
+      "file": "1715.json",
+      "feature_count": 46
+    },
+    {
+      "year": 1783,
+      "file": "1783.json",
+      "feature_count": 48
+    },
+    {
+      "year": 1800,
+      "file": "1800.json",
+      "feature_count": 45
+    },
+    {
+      "year": 1815,
+      "file": "1815.json",
+      "feature_count": 56
+    },
+    {
+      "year": 1880,
+      "file": "1880.json",
+      "feature_count": 69
+    },
+    {
+      "year": 1900,
+      "file": "1900.json",
+      "feature_count": 65
+    },
+    {
+      "year": 1914,
+      "file": "1914.json",
+      "feature_count": 67
+    },
+    {
+      "year": 1920,
+      "file": "1920.json",
+      "feature_count": 85
+    },
+    {
+      "year": 1930,
+      "file": "1930.json",
+      "feature_count": 84
+    },
+    {
+      "year": 1938,
+      "file": "1938.json",
+      "feature_count": 81
+    },
+    {
+      "year": 1945,
+      "file": "1945.json",
+      "feature_count": 92
+    },
+    {
+      "year": 1960,
+      "file": "1960.json",
+      "feature_count": 98
+    },
+    {
+      "year": 1994,
+      "file": "1994.json",
+      "feature_count": 115
+    },
+    {
+      "year": 2000,
+      "file": "2000.json",
+      "feature_count": 116
+    },
+    {
+      "year": 2010,
+      "file": "2010.json",
+      "feature_count": 116
+    }
+  ]
+}
